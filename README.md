@@ -1,6 +1,6 @@
 
 
-# Bike Sales Analysis Dashboard:
+# Bike Sales Analysis:
 
 This project showcases an interactive Excel dashboard designed to analyze and visualize bike sales data. It provides insights into customer demographics, purchasing patterns, and sales trends to support data-driven business decisions.
 
